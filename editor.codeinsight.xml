@@ -1,0 +1,18 @@
+<application>
+  <component name="Go">
+    <option name="detectGoPackageFromClipboard" value="false" />
+    <option name="renameCorrespondingTestOrProductionFile" value="YES" />
+    <option name="renamePackageOnDirectoryRenaming" value="YES" />
+    <option name="showDocumentationInParameterPopup" value="true" />
+  </component>
+  <component name="GoFoldingSettings">
+    <option name="isOneLineReturns" value="false" />
+    <option name="isOneLinePanics" value="false" />
+    <option name="isFmtStrings" value="false" />
+  </component>
+  <component name="MarkdownFoldingSettings">
+    <option name="COLLAPSE_IMAGES" value="false" />
+    <option name="COLLAPSE_EMBEDDED_IMAGES" value="false" />
+    <option name="COLLAPSE_SIM_TOC" value="false" />
+  </component>
+</application>
