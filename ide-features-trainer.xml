@@ -5,7 +5,7 @@
   <component name="LessonStateBase">
     <option name="map">
       <map>
-        <entry key="Actions" value="NOT_PASSED" />
+        <entry key="Actions" value="PASSED" />
         <entry key="Basic Completion" value="NOT_PASSED" />
         <entry key="Class Search" value="NOT_PASSED" />
         <entry key="CodeAssistance.CodeFormatting" value="NOT_PASSED" />
