@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
+      <removed_mapping ext="md" approved="true" type="Markdown" />
       <mapping pattern="dylan_build" type="PLAIN_TEXT" />
       <mapping pattern="configHash" type="PLAIN_TEXT" />
       <mapping pattern="MakeFile" type="PLAIN_TEXT" />
@@ -28,7 +29,6 @@
       <mapping ext="api" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <removed_mapping ext="md" approved="true" type="Specification" />
       <removed_mapping ext="md" approved="true" type="Markdown" />
     </extensionMap>
   </component>
