@@ -1,5 +1,5 @@
 <application>
   <component name="MarkdownApplicationSettings">
-    <MarkdownCssSettings />
+    <MarkdownCssSettings UriEnabled="true" StylesheetUri="https://unpkg.com/mermaid/" />
   </component>
 </application>
