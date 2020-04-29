@@ -2,34 +2,32 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
-      <removed_mapping ext="md" approved="true" type="Markdown" />
-      <mapping pattern="dylan_build" type="PLAIN_TEXT" />
-      <mapping pattern="configHash" type="PLAIN_TEXT" />
-      <mapping pattern="MakeFile" type="PLAIN_TEXT" />
-      <mapping pattern="portal" type="PLAIN_TEXT" />
-      <mapping pattern="private" type="PLAIN_TEXT" />
-      <mapping pattern="config_release" type="PLAIN_TEXT" />
-      <mapping pattern="migrate" type="PLAIN_TEXT" />
-      <mapping pattern=".stfolder" type="PLAIN_TEXT" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
-      <mapping pattern="dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern="ca-cert" type="PLAIN_TEXT" />
-      <mapping pattern="department" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="user" type="PLAIN_TEXT" />
-      <mapping pattern="sms" type="PLAIN_TEXT" />
-      <mapping pattern="crontask" type="PLAIN_TEXT" />
       <mapping pattern=".gitingore" type="PLAIN_TEXT" />
-      <mapping pattern="school" type="PLAIN_TEXT" />
-      <mapping pattern="qrcodeexport_test" type="PLAIN_TEXT" />
+      <mapping pattern=".stfolder" type="PLAIN_TEXT" />
+      <mapping pattern="ca-cert" type="PLAIN_TEXT" />
+      <mapping pattern="MakeFile" type="PLAIN_TEXT" />
+      <mapping pattern="dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="josn" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
-      <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="api" type="PLAIN_TEXT" />
+      <mapping ext="josn" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <removed_mapping ext="md" approved="true" type="Markdown" />
+      <removed_mapping pattern="private" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="config_release" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="dylan_build" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="qrcodeexport_test" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="school" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="md" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="sms" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="configHash" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="crontask" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="portal" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="department" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="config" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="user" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="migrate" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
