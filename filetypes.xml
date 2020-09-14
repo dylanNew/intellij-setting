@@ -7,12 +7,12 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".gitingore" type="PLAIN_TEXT" />
       <mapping pattern="ca-cert" type="PLAIN_TEXT" />
-      <mapping ext="api" type="PLAIN_TEXT" />
-      <mapping ext="me" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="josn" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
+      <mapping ext="api" type="PLAIN_TEXT" />
+      <mapping ext="me" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <removed_mapping pattern="private" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="config_release" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="dylan_build" approved="true" type="PLAIN_TEXT" />
