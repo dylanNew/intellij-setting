@@ -1,0 +1,10 @@
+<application>
+  <component name="LangManager">
+    <option name="languageName" value="go" />
+    <option name="languageToProjectMap">
+      <map>
+        <entry key="go" value="$USER_HOME$/go/src/LearnGoProject" />
+      </map>
+    </option>
+  </component>
+</application>
