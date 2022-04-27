@@ -24,12 +24,8 @@
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="GO" value="true" />
-      <option name="GO_BLOCK" value="false" />
-      <option name="GO_EXPRESSION" value="false" />
-      <option name="GO_STATEMENT" value="false" />
       <option name="GO_TAG" value="false" />
       <option name="GO_TAG_LITERAL" value="false" />
-      <option name="GO_TYPE" value="false" />
     </context>
   </template>
 </templateSet>
